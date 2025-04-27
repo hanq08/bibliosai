@@ -9,7 +9,7 @@ BibliosAI is a Retrieval-Augmented Generation (RAG) platform that connects to va
 ## 🌟 Features
 
 - **Multi-source Integration**: Connect to Gmail, Slack, Google Drive, and other data sources
-- **Community driven data connectors: Extendible custom data sources 
+- **Open Source**: Extensible data sources that are community driven
 - **Contextual AI Responses**: Get answers based on your connected data sources
 - **Actionable AI**: Perform tasks like sending emails or scheduling meetings with user approval
 - **Secure Authentication**: OAuth integration for secure access to third-party services
